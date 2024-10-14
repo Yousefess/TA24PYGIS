@@ -1,6 +1,6 @@
 # Week 05
 
-## [**`Object Relationships`**]()
+## [**`Object Relationships`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_05/Notebooks/01%20Object%20Relationships.ipynb)
 
 - Association in Object-Oriented Programming
   - Example 1: The Doctor and Stethoscope Relationship
@@ -25,14 +25,14 @@
   - Best Practices for Implementing OOP Relationships
   - Avoiding Common Pitfalls in Designing Relationships
 
-## [**`Polymorphism and Inheritance`**]()
+## [**`Polymorphism and Inheritance`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_05/Notebooks/02%20OOP%20Feature_%20Polymorphism.ipynb)
 
 - Implementing Polymorphism in Inheritance
 - Dynamic Typing and Polymorphic Behavior
   - Dynamic Typing in Action
   - Advantages and Pitfalls of Dynamic Typing and Polymorphism
 
-## [**`Introduction to Encapsulation`**]()
+## [**`Introduction to Encapsulation`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_05/Notebooks/03%20OOP%20Feature_%20Encapsulation.ipynb)
 
 - The Foundations of Encapsulation
 - Public Attributes and Methods
@@ -43,7 +43,7 @@
   - Defining and Accessing Private Members in Python
   - Name Mangling in Python
 
-## [**`Abstract Base Classes`**]()
+## [**`Abstract Base Classes`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_05/Notebooks/04%20OOP%20Feature_%20Abstract%20Base%20Classes.ipynb)
 
 - How to Define Abstract Base Classes
   - Using the `abc` Module
@@ -58,7 +58,7 @@
   - Limitations
   - Best Practices
 
-## [**`Introduction to Method Overriding`**]()
+## [**`Introduction to Method Overriding`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_05/Notebooks/05%20Overriding.ipynb)
 
 - Basic Example of Method Overriding
 - The `super()` Function
@@ -74,7 +74,7 @@
     - Best Practices
   - Common Pitfalls
 
-## [**`The Magic Methods`**]()
+## [**`The Magic Methods`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_05/Notebooks/06%20The%20Magic%20Methods.ipynb)
 
 - Representing Objects as Strings: `__str__` and `__repr__`
   - `__str__`: User-Friendly String Representation
@@ -89,7 +89,7 @@
   - `__init__`: Initializing Objects
   - `__del__`: Cleaning Up Objects
 
-## [**`Introduction to Method Types in Python`**]()
+## [**`Introduction to Method Types in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_05/Notebooks/07%20Static%20and%20Class%20Methods.ipynb)
 
 - Instance Methods
 - Static Methods
