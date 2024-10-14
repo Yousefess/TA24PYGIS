@@ -1,6 +1,6 @@
 # Week 04
 
-## [**`Introduction to File Handling and IO`**]()
+## [**`Introduction to File Handling and IO`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/01%20Introduction%20to%20File%20Handling%20and%20IO.ipynb)
 
 - What are files?
   - Text Files
@@ -22,7 +22,7 @@
   - Explanation of why files need to be closed
   - Introduction to the `with` statement and context managers
 
-## [**`Reading from Files`**]()
+## [**`Reading from Files`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/02%20Reading%20from%20Files.ipynb)
 
 - Opening Files for Reading ('r' mode)
   - How to Open a File Using `open()`
@@ -36,7 +36,7 @@
   - Understanding File Paths
   - Platform-Independent File Paths
 
-## [**`Writing to Files`**]()
+## [**`Writing to Files`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/03%20Writing%20to%20Files.ipynb)
 
 - Opening Files for Writing
   - Using `open()` to Create File Objects for Writing
@@ -53,9 +53,7 @@
   - Example: Writing Log Data to a File
   - Example: Generating and Saving a Report
 
-# Class
-
-## [**`Introduction to Programming Paradigms`**]()
+## [**`Introduction to Programming Paradigms`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/04%20Programming%20Paradigms.ipynb)
 
 - Programming Paradigm Overview
   - What is a Programming Paradigm?
@@ -75,7 +73,7 @@
   - Guidelines on Choosing the Appropriate Paradigm
 
 
-## [**`Introduction to Object-Oriented Programming`**]()
+## [**`Introduction to Object-Oriented Programming`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/05%20Introduction%20to%20Object%20Oriented%20Programming.ipynb)
 
 - Core Concepts of OOP
   - Classes and Objects
@@ -87,7 +85,7 @@
 - Advantages and Disadvantages of OOP
 
 
-## [**`OOP in Python`**]()
+## [**`OOP in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/06%20OOP%20in%20Python.ipynb)
 
 - Basic Concepts of OOP in Python
   - What is a Class?
@@ -102,7 +100,7 @@
 - Practical Example: Car Class
   - Instantiating an Object and Calling its Method:
 
-## [**`Understanding Classes and Objects in Python`**]()
+## [**`Understanding Classes and Objects in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/07%20Classes%20and%20Objects.ipynb)
 
 - Defining a Simple Class in Python
   - Introducing  Methods
@@ -122,7 +120,7 @@
   - Accessing Attributes and Invoking Methods
   - Maintaining Unique State
 
-## [**`Object Initialization with the `__init__` Method`**]()
+## [**`Object Initialization with the `__init__` Method`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/08%20the%20__init__%20Method.ipynb)
 
 - Anatomy of the `__init__` Method
   - Basic Syntax and Structure
@@ -130,13 +128,13 @@
   - Parameters and Arguments in `__init__`
 - Initializing Object Attributes with `__init__`
 
-## [**`Understanding Inheritance in Python`**]()
+## [**`Understanding Inheritance in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/09%20OOP%20Feature_%20Inheritance.ipynb)
 
 - The Basics of Inheriting Classes
   - Adding and Overriding Methods
 - The `super()` Function and Method Overriding
 
-## [**`Types of Inheritance in Python`**]()
+## [**`Types of Inheritance in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_04/Notebooks/10%20Types%20of%20Inheritance.ipynb)
 
 - Single Inheritance: Basics and Benefits
 - Multilevel Inheritance: Advantages and Challenges
