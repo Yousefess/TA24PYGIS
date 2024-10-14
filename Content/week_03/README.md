@@ -1,6 +1,6 @@
 # Week 03
 
-## [**`Introduction to Functions`**]()
+## [**`Introduction to Functions`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/01%20Introduction%20to%20Functions.ipynb)
 
 - What is a Function?
 - The Importance of Python Functions
@@ -14,7 +14,7 @@
   - Using Parameters
   - Placeholder Functions with `pass`
 
-## [**`Defining and Calling Functions`**]()
+## [**`Defining and Calling Functions`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/02%20Defining%20and%20Calling%20Functions.ipynb)
 
 - What is a Function?
   - The DRY Principle
@@ -27,7 +27,7 @@
 - Parameters and Arguments
 - The `return` Statement
 
-## [**`Argument Passing in Python Functions`**]()
+## [**`Argument Passing in Python Functions`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/03%20Argument%20Passing.ipynb)
 
 - Positional Arguments
 - Keyword Arguments
@@ -37,7 +37,7 @@
   - Keyword Arguments
   - Default Parameters
 
-## [**`Function Return Values in Python`**]()
+## [**`Function Return Values in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/04%20Function%20Return%20Values.ipynb)
 
 - Returning Data to the Caller
   - Returning a Single Value
@@ -50,7 +50,7 @@
   - Functions with Multiple Return Statements
 - Best Practices and Common Mistakes
 
-## [**`Function Variable-Length Argument in Python`**]()
+## [**`Function Variable-Length Argument in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/05%20Variable-Length%20Argument.ipynb)
 
 - Argument Tuple Packing
 - Argument Tuple Unpacking
@@ -65,7 +65,7 @@
   - Argument Dictionary Packing
   - Argument Dictionary Unpacking
 
-## [**`Function Documentation`**]()
+## [**`Function Documentation`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/06%20Function%20Documentation.ipynb)
 
 - The Importance of Documenting Functions
 - Docstrings: The Basics
@@ -88,7 +88,7 @@
   - Benefits
   - Using Type Hints with Docstrings
 
-## [**`Lambda Functions`**]()
+## [**`Lambda Functions`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/07%20Lambda%20Functions.ipynb)
 
 - Understanding Lambda Functions
   - What Are Lambda Functions?
@@ -106,7 +106,7 @@
   - When to Use and When to Avoid Lambda Functions
   - Readability and Maintenance Considerations
 
-## [**`Built-in Functions in Python`**]()
+## [**`Built-in Functions in Python`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_03/Notebooks/08%20Built-in%20Functions.ipynb)
 
 - Common Types of Built-in Functions
   - Numeric Functions
