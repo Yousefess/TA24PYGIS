@@ -1,6 +1,6 @@
 # Week 06
 
-## [**`Introduction to NumPy`**]()
+## [**`Introduction to NumPy`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/01%20Introduction%20to%20NumPy.ipynb)
 
 - Advantages of using NumPy for Numerical Computing
   - Efficiency and Performance
@@ -19,7 +19,7 @@
   - Basic Usage Examples
 - Summary and Conclusion
 
-## [**`Creating Numpy Arrays`**]()
+## [**`Creating Numpy Arrays`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/02%20Creating%20Numpy%20Arrays.ipynb)
 
 - Creating 1-Dimensional Arrays
   - Using `np.array()` Function
@@ -46,7 +46,7 @@
   - Importance of Array Creation in NumPy
   - Further Resources
 
-## [**`Indexing and Slicing Arrays`**]()
+## [**`Indexing and Slicing Arrays`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/03%20Indexing%20and%20Slicing%20Arrays.ipynb)
 
 - Indexing NumPy Arrays
   - Accessing Elements using Square Bracket Notation
@@ -74,7 +74,7 @@
   - Understanding View vs. Copy Behavior
   - Performance Considerations
 
-## [**`NumPy Data Types`**]()
+## [**`NumPy Data Types`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/04%20NumPy%20Data%20Types.ipynb)
 
 - Numeric Data Types
   - Integer Types
@@ -100,7 +100,7 @@
   - Specifying Data Types Explicitly
   - Avoiding Unnecessary Type Casting
 
-## [**`Broadcasting`**]()
+## [**`Broadcasting`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/05%20Broadcasting.ipynb)
 
 - Rules of Broadcasting
   - Rule 1: Matching Dimensions
@@ -119,7 +119,7 @@
   - Unintended Consequences
 - Conclusion
 
-## [**`Vectorization`**]()
+## [**`Vectorization`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/06%20Vectorization.ipynb)
 
 - How Vectorization Works
   - Operating on Arrays vs. Individual Elements
@@ -136,7 +136,7 @@
   - Memory Considerations
 - Summary and Conclusion
 
-## [**`Mathematical Operations with NumPy`**]()
+## [**`Mathematical Operations with NumPy`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/07%20Mathematical%20Operations%20with%20NumPy.ipynb)
 
 - Element-wise Arithmetic Operations
   - Addition
@@ -169,7 +169,7 @@
   - Logical Functions
 - Conclusion and Further Resources
 
-## [**`Array Manipulation`**]()
+## [**`Array Manipulation`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/08%20Array%20Manipulation.ipynb)
 
 - Reshaping Arrays
   - Reshaping 1D Arrays to 2D Arrays
@@ -192,7 +192,7 @@
   - (Optional) Creating Grids with `np.meshgrid()`
 - Summary and Conclusion
 
-## [**`NumPy Sorting and Searching`**]()
+## [**`NumPy Sorting and Searching`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/09%20NumPy%20Sorting%20and%20Searching.ipynb)
 
 - Sorting Arrays
   - `np.sort()`: Sorting Arrays in Ascending Order
@@ -211,7 +211,7 @@
   - Comparison with Python's Built-in Sorting and Searching Functions
 - Summary and Conclusion
 
-## [**`Saving and Loading NumPy Objects`**]()
+## [**`Saving and Loading NumPy Objects`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_06/Notebooks/10%20Saving%20and%20Loading%20Numpy%20Objects.ipynb)
 
 - Saving NumPy Arrays
   - Saving a Single NumPy Array with `np.save()`
