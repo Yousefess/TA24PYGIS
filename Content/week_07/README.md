@@ -1,6 +1,6 @@
 # Week 07
 
-## [**`Introduction to Pandas`**]()
+## [**`Introduction to Pandas`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/01%20Introduction%20to%20Pandas.ipynb)
 
 - Key Features and Benefits
   - Data Structures for Efficient Data Manipulation
@@ -21,7 +21,7 @@
   - Accessing Data
 - Pandas Datatypes
 
-## [**`Pandas Series`**]()
+## [**`Pandas Series`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/02%20Pandas%20Series.ipynb)
 
 - Creating a Series
   - Creating a Series from a List, NumPy Array, or Dictionary
@@ -50,7 +50,7 @@
   - Best Practices and Considerations
 - Conclusion
 
-## [**`Pandas DataFrame`**]()
+## [**`Pandas DataFrame`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/03%20Pandas%20Dataframes.ipynb)
 
 - Creating DataFrames
   - From dict of Series or dicts
@@ -75,7 +75,7 @@
   - Hiding or Showing Index and Column Labels
 - Conclusion
 
-## [**`Basic Indexing and Selecting Data`**]()
+## [**`Basic Indexing and Selecting Data`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/04%20Basic%20Indexing%20and%20Selecting%20Data.ipynb)
 
 - Different Choices for Indexing
 - Basics of Indexing and Selection
@@ -89,7 +89,7 @@
   - Using `iat` for Fast Scalar Value Getting and Setting
 - Performance Considerations
 
-## [**`More on Indexing`**]()
+## [**`More on Indexing`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/05%20More%20on%20Indexing.ipynb)
 
 - Boolean Indexing
   - Creating Boolean Masks
@@ -118,7 +118,7 @@
   - Example 4: Indexing with `where()`
 - Conclusion
 
-## [**`Multi-Indexing`**]()
+## [**`Multi-Indexing`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/06%20Multi-indexing.ipynb)
 
 - Creating Multi-Index DataFrames
   - From Scratch
@@ -134,7 +134,7 @@
   - Reindexing
 - Conclusion and Further Resources
 
-## [**`DataBase Fundamentals`**]()
+## [**`DataBase Fundamentals`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/07%20Database%20Fundamentals.ipynb)
 
 - Relational Database Concepts
   - Tables, Rows, and Columns
@@ -163,7 +163,7 @@
   - HAVING Clause (Filtering Groups)
 - Conclusion
 
-## [**`Applying Functions to Series and DataFrames`**]()
+## [**`Applying Functions to Series and DataFrames`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/08%20Applying%20Functions%20to%20Series%20and%20DataFrames.ipynb)
 
 - Applying Functions to Series
   - Using Built-in Functions
@@ -183,7 +183,7 @@
   - Example 1: Data Cleaning and Transformation
   - Example 2: Text Data Processing
 
-## [**`String Manipulation`**]()
+## [**`String Manipulation`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/09%20String%20Manipulation.ipynb)
 
 - Accessing String Methods in Pandas
   - Vectorized Operations
@@ -216,7 +216,7 @@
   - Extracting Information from Product Descriptions
   - Normalizing and Categorizing Text Data
 
-## [**`Date and Time in Pandas`**]()
+## [**`Date and Time in Pandas`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/10%20Date%20and%20Time%20in%20Pandas.ipynb)
 
 - [Datetime Data Types
   - Timestamp
@@ -237,7 +237,7 @@
   - Formatting Dates as Strings
 - Conclusion
 
-## [**`Categorical Data`**]()
+## [**`Categorical Data`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/11%20Categorical%20Data.ipynb)
 
 - Creating and Converting Categorical Data
   - Creating Categorical Data from Scratch
@@ -269,7 +269,7 @@
   - Example 3: Sales Analysis with Seasonal Categories
   - Example 4: Survey Response Analysis
 
-## [**`Handling Duplicate Data`**]()
+## [**`Handling Duplicate Data`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/12%20Handling%20Duplicate%20Data.ipynb)
 
 - Detecting Duplicate Data
   - Using `.duplicated()` method
@@ -284,7 +284,7 @@
   - Fuzzy matching for near-duplicates
   - Handling duplicates in time series data
 
-## [**`Handling Missing Values`**]()
+## [**`Handling Missing Values`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/13%20Handling%20Missing%20Values.ipynb)
 
 - Understanding Missing Data
   - Types of Missing Data
@@ -315,7 +315,7 @@
   - Using `replace()` for Custom Missing Value Handling
   - Imputation Strategies
 
-## [**`Merging, Joining, and Concatenating DataFrames`**]()
+## [**`Merging, Joining, and Concatenating DataFrames`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/14%20Merging%2C%20Joining%2C%20and%20Concatenating%20DataFrames.ipynb)
 
 - Concatenating DataFrames
   - Vertical Concatenation (along rows)
@@ -335,7 +335,7 @@
   - Best Practices
   - Common Pitfalls
 
-## [**`Grouping and Aggregating Data](#)
+## [**`Grouping and Aggregating Data`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/15%20Grouping%20and%20Aggregating%20Data.ipynb)
 
 - Basic Grouping with `groupby()`
   - Grouping by a Single Column
@@ -359,7 +359,7 @@
   - Sales Team Performance Analysis
   - Cohort Analysis
 
-## [**`Reshaping Data ^% Pivoting, Melting, Stacking and Unstacking`**]()
+## [**`Reshaping Data ^% Pivoting, Melting, Stacking and Unstacking`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_07/Notebooks/16%20Reshaping%20Data%5E%25%20Pivoting%2C%20Melting%2C%20Stacking%2C%20and%20Unstacking.ipynb)
 
 - Pivoting Data
   - Using `pivot()`
@@ -378,4 +378,3 @@
 - Working with Dummy Variables
   - `get_dummies()`
   - `from_dummies()`
-
