@@ -1,6 +1,6 @@
 # Week 08
 
-## [**`Introduction to Matplotlib`**]()
+## [**`Introduction to Matplotlib`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_08/Notebooks/01%20Introduction%20to%20Matplotlib.ipynb)
 
 - Installing and Importing Matplotlib
   - Installation
@@ -19,7 +19,7 @@
   - Scatter Plot
 - Recap and Summary
 
-## [**`Figure and Axes Objects`**]()
+## [**`Figure and Axes Objects`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_08/Notebooks/02%20Figure%20and%20Axes%20Objects.ipynb)
 
 - Creating a Figure
   - Basic Figure Creation
@@ -52,7 +52,7 @@
   - Example 4: Bar Plot with Error Bars
 - Conclusion and Further Resources
 
-## [**`Basic Plot Types`**]()
+## [**`Basic Plot Types`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_08/Notebooks/03%20Basic%20Plot%20Types.ipynb)
 
 - Line Plots
   - Customizing Line Plots
@@ -82,7 +82,7 @@
   - Exercises
 - Recap and Further Resources
 
-## [**`Text, Label and Annotation`**]()
+## [**`Text, Label and Annotation`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_08/Notebooks/04%20Text%2C%20Labels%2C%20and%20Annotations.ipynb)
 
 - Adding Titles and Axis Labels
   - Customizing Titles and Labels
