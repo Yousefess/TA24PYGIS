@@ -1,14 +1,14 @@
 # Week 10
 
-## [**`Introduction Guide to Contextily`**]()
+## [**`Introduction Guide to Contextily`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/contextily/01_intro_guide.ipynb)
 
-## [**`Guide to the Place API`**]()
+## [**`Guide to the Place API`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/contextily/02_places_guide.ipynb)
 
 - Using `contextily` to get maps & more of named places
   - Instantiating a `Place` object
   - Exploring the Place object's attributes
 
-## [**`Wraping Tiles`**]()
+## [**`Wraping Tiles`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/contextily/03_warping_guide.ipynb)
 
 - Data
 - Convert your data to Web Mercator
@@ -19,7 +19,7 @@
   - wrap_tiles
   - warp_img_transform
 
-## [**`Working with Local Files`**]()
+## [**`Working with Local Files`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/contextily/04_working_with_local_files.ipynb)
 
 - Saving Tiles Locally
   - Raster from Bounds
@@ -28,7 +28,7 @@
   - Reading with Rasterio
   - Reading with add_basemap
 
-## [**`Providers Deepdive`**]()
+## [**`Providers Deepdive`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/contextily/05_providers_deepdive.ipynb)
 
 - Choosing a Web Tile Provider
 - What is this `provider` object
@@ -36,7 +36,7 @@
 - Manually Specifying a Provider
 - Overview of Built-in Providers
 
-## [**`Friends GEE`**]()
+## [**`Friends GEE`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/contextily/06_friends_gee.ipynb)
 
 - Google Earth Engine
   - Requirements
@@ -45,7 +45,7 @@
     - SRTM Elevation Model
   - Landsat-8
 
-## [**`Friends cenpy and osmnx`**]()
+## [**`Friends cenpy and osmnx`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/contextily/07_friends_cenpy_osmnx.ipynb)
 
 - OSMNX & Cenpy
   - Using contextily to map OpenStreetMap & US Census Data
@@ -58,6 +58,6 @@
   - Cenpy
   - OSMNX
 
-## [**`Geopandas Spatial Query (Mini Project)`**]()
+## [**`Geopandas Spatial Query (Mini Project)`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/01_geopandas_spatial_query.ipynb)
 
-## [**`Contextily Mini Example`**]()
+## [**`Contextily Mini Example`**](https://github.com/Yousefess/TA24PYGIS/blob/main/Content/week_10/Notebooks/02_contextily_mini_example.ipynb)
