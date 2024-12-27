@@ -1,0 +1,63 @@
+# Week 10
+
+## [**`Introduction Guide to Contextily`**]()
+
+## [**`Guide to the Place API`**]()
+
+- Using `contextily` to get maps & more of named places
+  - Instantiating a `Place` object
+  - Exploring the Place object's attributes
+
+## [**`Wraping Tiles`**]()
+
+- Data
+- Convert your data to Web Mercator
+- Convert the tiles to your data's CRS
+- Convert both datasets into a different CRS
+- Warping from local files
+- Low-level warping functionality
+  - wrap_tiles
+  - warp_img_transform
+
+## [**`Working with Local Files`**]()
+
+- Saving Tiles Locally
+  - Raster from Bounds
+  - Raster from Names
+- Reading Local Rasters
+  - Reading with Rasterio
+  - Reading with add_basemap
+
+## [**`Providers Deepdive`**]()
+
+- Choosing a Web Tile Provider
+- What is this `provider` object
+- Specifying Options for a Provider
+- Manually Specifying a Provider
+- Overview of Built-in Providers
+
+## [**`Friends GEE`**]()
+
+- Google Earth Engine
+  - Requirements
+  - Interactive Way using Folium
+  - Rendering GEE with Contextily
+    - SRTM Elevation Model
+  - Landsat-8
+
+## [**`Friends cenpy and osmnx`**]()
+
+- OSMNX & Cenpy
+  - Using contextily to map OpenStreetMap & US Census Data
+  - OSMNX
+  - Contextily
+  - Cenpy
+    - Census Products
+    - Building Blocks of `cenpy.products`
+- Using the Packages
+  - Cenpy
+  - OSMNX
+
+## [**`Geopandas Spatial Query (Mini Project)`**]()
+
+## [**`Contextily Mini Example`**]()
