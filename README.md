@@ -12,5 +12,27 @@ This course will be focus on the `Python programming language in GIS`. The cours
 
 ---
 
-| Weeks | Topic | Weeks | Topic |
-| :-----: | :-----: | :-----: | :-----: |
+## Table of Course Content
+
+| Weeks | Topic | Weeks | Topic | Weeks | Topic |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 01 | [Data Types](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_01) | 02 | [Conditional Statements + Loops + Comprehension](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_02) | 03 | [Function](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_03) |
+| 04 | [File Handling + Class](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_04) | 05 | [Class](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_05)| 06 | [Numpy](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_06) |
+| 07 | [Pandas](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_07) | 08 | [Matplotlib](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_08) | 09 | [Shapely + GeoPandas](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_09) |
+| 10 | [Contextily + Mini Project](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_10) | 11 | [Rasterio](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_11) | 12 | [Xarray + Rioxarray](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_12) |
+| 13 | [DuckDB](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_13) | 14 | [Geemap]() |
+
+## References
+
+- [Python Documentation](https://www.python.org/doc/)
+- [Real Python](https://realpython.com/)
+- [W3Schools](https://www.w3schools.com/python/)
+- [Pytopia](https://www.pytopia.ai/)
+- [Numpy](https://numpy.org/doc/stable/)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+- [Shapely](https://shapely.readthedocs.io/en/2.0.3/manual.html)
+- [GeoPandas](https://geopandas.org/en/stable/docs.html)
+- [DuckDB](https://duckdb.org/docs/api/python/overview.html)
+- [Introduction to GIS Programming](https://geog-312.gishub.org/)
+- [Automating GIS Processes 2024](https://autogis-site.readthedocs.io/en/latest/)
