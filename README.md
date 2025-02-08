@@ -20,7 +20,7 @@ This course will be focus on the `Python programming language in GIS`. The cours
 | 04 | [File Handling + Class](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_04) | 05 | [Class](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_05)| 06 | [Numpy](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_06) |
 | 07 | [Pandas](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_07) | 08 | [Matplotlib](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_08) | 09 | [Shapely + GeoPandas](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_09) |
 | 10 | [Contextily + Mini Project](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_10) | 11 | [Rasterio](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_11) | 12 | [Xarray + Rioxarray](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_12) |
-| 13 | [DuckDB](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_13) | 14 | [Geemap]() |
+| 13 | [DuckDB](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_13) | 14 | [OSMnx](https://github.com/Yousefess/TA24PYGIS/tree/main/Content/week_14) | | |
 
 ## References
 
@@ -36,3 +36,4 @@ This course will be focus on the `Python programming language in GIS`. The cours
 - [DuckDB](https://duckdb.org/docs/api/python/overview.html)
 - [Introduction to GIS Programming](https://geog-312.gishub.org/)
 - [Automating GIS Processes 2024](https://autogis-site.readthedocs.io/en/latest/)
+- [OSMnx](https://geoffboeing.com/)
